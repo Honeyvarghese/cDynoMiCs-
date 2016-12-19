@@ -1,0 +1,17 @@
+<idynomics>
+ <simulation iterate="0" time="0.0" unit="hour">
+<bulk name="MyTank">
+<solute name="Attract" unit="g.L-1">0.0</solute>
+<solute name="pressure" unit="g.L-1">0.0</solute>
+<solute name="Glucose" unit="g.L-1">0.4</solute>
+<solute name="Acetate" unit="g.L-1">0.0</solute>
+<solute name="Methane" unit="g.L-1">0.0</solute>
+<uptake_rate name="Attract" unit="g.L-1.hour-1">0.0</uptake_rate>
+<uptake_rate name="pressure" unit="g.L-1.hour-1">0.0</uptake_rate>
+<uptake_rate name="Glucose" unit="g.L-1.hour-1">0.0</uptake_rate>
+<uptake_rate name="Acetate" unit="g.L-1.hour-1">0.0</uptake_rate>
+<uptake_rate name="Methane" unit="g.L-1.hour-1">0.0</uptake_rate>
+</bulk>
+
+</simulation>
+</idynomics>

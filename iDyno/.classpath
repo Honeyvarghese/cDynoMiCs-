@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/iDynoOptimizer/MOEAFramework26/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="src/iDynoOptimizer/MOEAFramework26/lib/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="src/iDynoOptimizer/MOEAFramework26/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="src/iDynoOptimizer/MOEAFramework26/lib/commons-math3-3.4.1.jar"/>
+	<classpathentry kind="lib" path="src/iDynoOptimizer/MOEAFramework26/lib/jcommon-1.0.20.jar"/>
+	<classpathentry kind="lib" path="src/iDynoOptimizer/MOEAFramework26/lib/jfreechart-1.0.15.jar"/>
+	<classpathentry kind="lib" path="src/iDynoOptimizer/MOEAFramework26/lib/JMetal-4.3.jar"/>
+	<classpathentry kind="lib" path="src/iDynoOptimizer/MOEAFramework26/lib/rsyntaxtextarea.jar"/>
+	<classpathentry kind="lib" path="src/lib/ApacheCommonsIO2.4.jar"/>
+	<classpathentry kind="lib" path="src/lib/colt.jar"/>
+	<classpathentry kind="lib" path="src/lib/Jama-1.0.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/jcommon-1.0.12.jar"/>
+	<classpathentry kind="lib" path="src/lib/jdom.jar"/>
+	<classpathentry kind="lib" path="src/lib/jfreechart-1.0.9.jar"/>
+	<classpathentry kind="lib" path="src/lib/truezip-6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

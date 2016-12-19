@@ -1,0 +1,14 @@
+<idynomics>
+ <simulation iterate="0" time="0.0" unit="hour">
+<grid resolution="4.0" nI="127" nJ="127" nK="1"/>
+<species name="GDyingA" header="population,mass,growthRate" >
+0.0,0.0,0.0</species>
+<species name="Acidogen" header="population,mass,growthRate" >
+100.0,29917.58099999999,0.0</species>
+<species name="Methanogen" header="population,mass,growthRate" >
+110.0,164244.50819999987,0.0</species>
+<species name="GDyingM" header="population,mass,growthRate" >
+0.0,0.0,0.0</species>
+
+</simulation>
+</idynomics>

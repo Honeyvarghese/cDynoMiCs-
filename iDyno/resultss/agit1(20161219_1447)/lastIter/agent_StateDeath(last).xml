@@ -1,0 +1,14 @@
+<idynomics>
+ <simulation iterate="0" time="0.0" unit="hour">
+<grid resolution="4.0" nI="127" nJ="127" nK="1"/>
+<species name="GDyingA" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="Acidogen" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="Methanogen" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+<species name="GDyingM" header="birthid,family,genealogy,generation,birthday,biomass,inert,capsule,growthRate,volumeRate,locationX,locationY,locationZ,radius,totalRadius,state,death">
+</species>
+
+</simulation>
+</idynomics>
